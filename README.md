@@ -145,30 +145,30 @@ Nem engedi magára a dobozt és a játékost, ha ide próbál csúszni. Ha a já
 ## 4.4	Szekvencia diagramok ##
 
 ### 4.4.1. A játékos egy mezőre lép ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/Player%20steps%20to%20Field.JPG?raw=true)
 ### 4.4.2. A dolgot egy padló mezőre kerül ###
- 
+![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/Push%20Thing%20to%20the%20Floor.JPG?raw=true)
 ### 4.4.3. Játékos egy padlóra helyezése ###
  
 ### 4.4.4. A doboz egy padlóra helyezése ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/Set%20box%20floor.JPG?raw=true)
 ### 4.4.5. Egy dolgot a falhoz kerül ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/4.%20Push%20Thing%20to%20the%20Wall.JPG?raw=true)
 ### 4.4.6. A dolog rálép a csapóajtóra ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/6.%20Thing%20stands%20on%20the%20TrapDoor.JPG?raw=true)
 ### 4.4.7. A dolog a lyukba esik ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/7.%20Thing%20falls%20into%20the%20Hole.JPG?raw=true)
 ### 4.4.8. A játékost egy mezőre elcsúsztatják ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/3.%20Player%20slides%20to%20the%20Field.JPG?raw=true)
 ### 4.4.9. A játékos meghal ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/8.%20Player%20dies.JPG?raw=true)
 ### 4.4.10. A doboz egy mezőre elcsúszik ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/2.%20Box%20slides%20to%20the%20Field.JPG?raw=true)
 ### 4.4.11. Egy doboz kapcsolómezőre csúszott ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/9.%20Box%20steps%20on%20the%20Switch.JPG?raw=true)
 ### 4.4.12. Egy doboz egy kapcsolómezőről elcsúszik ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/10.%20Box%20leaves%20the%20Switch.JPG?raw=true)
 ### 4.4.15. A doboz egy célhelyre ér ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/11.%20Box%20slides%20to%20the%20StorageArea.JPG?raw=true)
 ### 4.4.16. A doboz egy célhelyről eltolják ###
- 
+ ![alt text](https://github.com/BetaTeam2018/AnalysisModel/blob/master/pictures/Box%20leaves%20the%20StoreageArea.JPG?raw=true)
